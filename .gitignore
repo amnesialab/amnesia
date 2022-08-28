@@ -1,0 +1,7 @@
+/_site
+/target
+/project/project
+/project/target
+/.lib
+/gen
+*.sublime-*
